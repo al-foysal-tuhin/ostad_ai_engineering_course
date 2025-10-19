@@ -11,3 +11,19 @@ Welcome to my Ostad AI Engineering Course Repository! This is my personal learni
 ☁️ Google Colab notebooks for hands-on practice
 
 📝 Notes, experiments, and extra resources I find useful
+
+## 📒 Topics Covered
+
+This repository will gradually include:
+
+* Python for AI & Data Science
+
+* Machine Learning Fundamentals
+
+* Deep Learning (TensorFlow & PyTorch)
+
+* Natural Language Processing (NLP)
+
+* Computer Vision
+
+* Model Deployment & MLOps Basics
