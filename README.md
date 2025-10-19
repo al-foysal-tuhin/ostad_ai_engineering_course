@@ -1,5 +1,7 @@
 # ostad_ai_engineering_course
-📘 Ostad AI Engineering Course Repository - Welcome to my Ostad AI Engineering Course Repository! This is my personal learning space where I will store all the codes, notebooks, and projects I complete throughout the course. Most of the coding will be written and executed in Google Colab for easy access and reproducibility.
+📘 Ostad AI Engineering Course Repository 
+
+Welcome to my Ostad AI Engineering Course Repository! This is my personal learning space where I will store all the codes, notebooks, and projects I complete throughout the course. Most of the coding will be written and executed in Google Colab for easy access and reproducibility.
 
 ## 🚀 About This Repository
 
